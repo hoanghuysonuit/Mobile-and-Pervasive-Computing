@@ -1,0 +1,28 @@
+﻿now tasks:
+- line dir thêm bóng
+- xử lý lúc thoát ứng dụng v.v
+- land co dãn bị mờ
+- high score chart
+------------------------------
+
+thứ tự sắp xếp trong jumper:
+movenemy < enemy < gamemanager
+
+------------------------------
+
+khi thêm 1 cái cùng loại enum:
+- thêm phần chú thích cho loại enum đó
+- thêm enum cho OBJECT_TYPE
+- thêm vào GetIndex()
+- thêm tab cho prefab đó
+- thêm phần tử cho mảng objects
+- code
+
+khi thêm 1 direction
+- thêm biến middle times, limit  
+- thêm vào OBJECT_TYPE
+- chỉnh GetIndex()
+- thêm phần tử cho mảng objects
+- thêm tab cho prefab đó
+- thêm phần chú thích cho loại enum đó
+- code 
